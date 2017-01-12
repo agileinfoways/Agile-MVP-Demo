@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MVP with RxLifecycle</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="loading_posts">Loading...</string>
+    <string name="unknown_error_occured">Unknown error occurred</string>
+    <string name="random_posts">Random Posts</string>
+
+</resources>
